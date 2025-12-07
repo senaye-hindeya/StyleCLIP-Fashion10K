@@ -81,7 +81,4 @@ Example queries:
 | *“men formal black shoes”* | ✅ Formal shoes retrieved |
 
 Example output:
-
 ![Red Dress Retrieval](assets/screenshots/query_red_summer_dress.png)
-
-
