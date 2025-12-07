@@ -78,10 +78,10 @@ Example queries:
 |-----|------|
 | *“red summer dress”* | ✅ Red dresses retrieved |
 | *“blue denim jeans”* | ✅ Denim jeans retrieved |
-| *“men formal black shoes”* | ✅ Formal shoes retrieved |
+| *“black leather handbag”* | ✅ Formal shoes retrieved |
 
 Example output:
 ![Red Dress Retrieval](assets/screenshots/query_red_summer_dress.png)
-![black leather handbag](assets/screenshots/query_black_leather_handbag.png)
 ![Red Dress Retrieval](assets/screenshots/query_blue_denim_jeans.png)
+![black leather handbag](assets/screenshots/query_black_leather_handbag.png)
 
