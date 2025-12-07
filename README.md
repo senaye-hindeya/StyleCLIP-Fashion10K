@@ -82,6 +82,5 @@ Example queries:
 
 Example output:
 
-![Red Dress Retrieval](assets/screenshots/query_red_summer_dress.png)
-
+![Blue _Demim_Retrieval] ('assets/screenshots/blue_denim_jeans.png')
 
