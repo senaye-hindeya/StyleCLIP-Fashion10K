@@ -82,3 +82,6 @@ Example queries:
 
 Example output:
 ![Red Dress Retrieval](assets/screenshots/query_red_summer_dress.png)
+![black leather handbag](assets/screenshots/query_black_leather_handbag.png)
+![Red Dress Retrieval](assets/screenshots/query_blue_denim_jeans.png)
+
